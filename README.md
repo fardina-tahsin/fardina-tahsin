@@ -1,4 +1,4 @@
-## 🔭 I’m currently working on improving myself👋
+## Hi, I'm Fardina!👋
 
 <!--
 **fardina-tahsin/fardina-tahsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
