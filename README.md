@@ -1,4 +1,4 @@
-## Hi, I'm Fardina!👋
+<img width="993" height="251" alt="welcome" src="https://github.com/user-attachments/assets/33a7a8f7-ad44-41f1-827b-b42aee83f701" />
 
 <!--
 **fardina-tahsin/fardina-tahsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
